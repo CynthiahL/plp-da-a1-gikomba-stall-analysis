@@ -17,4 +17,9 @@ To interact with the code, run the calculations, and view the generated Stall Pe
 
 [![Open In Colab](https://google.com)](https://google.com)
 
+### Top Three Findings
+
+1. **Strong Revenue Expansion:** Wanjiku's business is on an upward growth trajectory, posting a **10.7% week-on-week revenue increase** as total weekly sales climbed from KES 22,050.00 in Week 1 to KES 24,400.00 in Week 2.
+2. **Extreme Weekend Spikes:** Customer demand heavily skews toward the weekend, with Saturday and Sunday sales averaging **KES 4,900.00**, which is an **82.5% performance jump** over the weekday average of KES 2,685.00. 
+3. **Critical Stock Depletion:** Both **Tomatoes and Sukuma** have completely depleted past their safety reorder thresholds (18kg and 9kg remaining, respectively), threatening a total stockout of Sukuma which yields an excellent **40.0% gross profit margin**.
 
