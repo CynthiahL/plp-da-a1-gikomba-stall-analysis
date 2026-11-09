@@ -15,7 +15,7 @@ Wanjiku operates a fresh-produce retail stall at the bustling Gikomba Market, bu
 ### How to Run
 To interact with the code, run the calculations, and view the generated Stall Performance Report, execute the notebook directly via Google Colab:
 
-[![Open In Colab](https://google.com)](https://google.com)
+[Open in Colab](https://colab.research.google.com/github/CynthiahL/plp-da-a1-gikomba-stall-analysis/blob/main/gikomba_stall_analysis.ipynb)
 
 ### Top Three Findings
 
